@@ -220,14 +220,6 @@ h3>a:hover{
   background-color: #FFFFFF;
 }
 
-.blue-background {
-    background: blue;
-}
-
-.half-opacity {
-    opacity: 0.5;
-}
-
 .container:hover .overlay {
   opacity: 1;
 }
