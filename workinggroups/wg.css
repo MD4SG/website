@@ -220,6 +220,14 @@ h3>a:hover{
   background-color: #FFFFFF;
 }
 
+.blue-background {
+    background: blue;
+}
+
+.half-opacity {
+    opacity: 0.5;
+}
+
 .container:hover .overlay {
   opacity: 1;
 }
@@ -588,3 +596,42 @@ ul {
     margin-top: -10px;
 }
 
+.cards-container {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap
+}
+
+.card {
+	flex-basis: 32%;
+	text-align: center;
+	padding-top: 10px;
+}
+
+img.card-image {
+	filter: sepia(100%) hue-rotate(190deg) saturate(500%);
+}
+
+h3.card-title {
+	color: black;
+}
+
+.card .card-description {
+	display: none;
+}
+
+.card:hover .card-organizers {
+	display: none;
+}
+
+.card:hover .card-description {
+	display: inline;
+}
+
+.card:hover img.card-image {
+	filter: none;
+}
+
+.card:hover h3.card-title {
+	color: #CB2701;
+}
