@@ -567,6 +567,11 @@ img.person-image {
 	display: inline;
 }
 
+.person .person-role {
+    font-style: italic;
+    font-size: 12px;
+}
+
 .person .person-website img {
     display: inline;
     width: 15px;
