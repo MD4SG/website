@@ -546,3 +546,34 @@ table ol {
 .normal {
     font-weight: normal;
 }
+
+.people-container {
+	display: flex;
+	justify-content: space-between;
+	flex-wrap: wrap
+}
+
+.person {
+	flex-basis: 17%;
+	text-align: center;
+	padding-top: 10px;
+}
+
+img.person-image {
+	border-radius: 50%;
+}
+
+.person .person-name {
+	display: inline;
+}
+
+.person .person-website img {
+    display: inline;
+    width: 15px;
+    padding-right: 10px;
+}
+
+.person .person-linkedin img {
+    display: inline;
+    width: 15px;
+}
