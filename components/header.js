@@ -10,7 +10,7 @@ class topLevelHeader extends HTMLElement {
                 <tbody>
                     <tr>
                         <td><a href="../index.html">Home</a></td>
-                        <td><a href="../aboutus.html">About Us</a></td>
+                        <td><a href="../aboutus/aboutus.html">About Us</a></td>
                         <td>
                             <div class="dropdown">
                                 <span class="normal">
@@ -42,7 +42,7 @@ class topLevelHeader extends HTMLElement {
                         <td>
                             <div class="dropdown">
                                 <span class="normal">
-                                    <a href="../workinggroups/index.html"><b>Working Groups</b></a>
+                                    <a href="../workinggroups/index.html">Working Groups</a>
                                 </span>
                                 <div class="dropdown-content">
                                     <p class="menu"><a href="../workinggroups/dev.html">Development</a></p>
