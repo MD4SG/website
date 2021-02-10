@@ -601,7 +601,11 @@ ul {
 }
 
 img.card-image {
-	filter: sepia(100%) hue-rotate(190deg) saturate(500%);
+	display: none;
+}
+
+img.card-image-blue {
+	display: inherit;
 }
 
 h3.card-title {
@@ -621,7 +625,11 @@ h3.card-title {
 }
 
 .card:hover img.card-image {
-	filter: none;
+	display: initial;
+}
+
+.card:hover img.card-image-blue {
+	display: none;
 }
 
 .card:hover h3.card-title {
