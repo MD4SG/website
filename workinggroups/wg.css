@@ -600,6 +600,10 @@ ul {
 	padding-top: 10px;
 }
 
+.middle-ribbon {
+	font-size: 14px;
+}
+
 img.card-image {
 	display: none;
 }
