@@ -642,7 +642,7 @@ h3.card-title {
 /* Create four equal columns that floats next to each other */
 .column1 {
   float: left;
-  width: 23%;
+  width: 24%;
   padding: 10px;
 /*  height: 300px;*/ /* Should be removed. Only for demonstration */
 }
