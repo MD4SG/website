@@ -640,7 +640,7 @@ h3.card-title {
 	color: #CB2701;
 }
 /* Create four equal columns that floats next to each other */
-.column1 {
+.column {
   float: left;
   width: 24%;
   padding: 10px;
