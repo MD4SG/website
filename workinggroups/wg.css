@@ -639,6 +639,17 @@ h3.card-title {
 .card:hover h3.card-title {
 	color: #CB2701;
 }
-.content-box {
-  columns: 3 auto;
+/* Create four equal columns that floats next to each other */
+.column1 {
+  float: left;
+  width: 25%;
+  padding: 10px;
+  height: 300px; /* Should be removed. Only for demonstration */
+}
+
+/* Clear floats after the columns */
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
 }
