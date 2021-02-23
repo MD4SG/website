@@ -56,7 +56,7 @@ div#contentpane {
 /*    border-color: #000000;*/
     clear: both;
     line-height: 175%;
-
+    padding-bottom: 50px;
 }
 
 
@@ -181,31 +181,7 @@ h2{
     border: 1px solid #CB2701;
 }
 
-#footer {
-    margin: 30px 0px;
-    text-align: center;
-    position: relative;
-    font-family: 'Titillium Web', Arial, sans-serif;
-    top: 0px;
-    font-size:95%;
-    float: left;
-    width: 100%;
-    color: #FFFFFF;
-}
-#footer .side, #footer .middle {
-        display: inline-block;
-        vertical-align: middle;
-}
-#footer .side {
-        margin: 0px;
-        width: 100px;
-}
-#footer .middle {
-        margin: 0px;
-        width: 60%;
-        padding: 10px;
-        text-align: justify;
-}
+
 
 /*#footer a:link, #contentpane a:link {
     color: #000000;
@@ -546,3 +522,55 @@ table ol {
 .normal {
     font-weight: normal;
 }
+
+.bottom-bar {
+    background-color: #20668F;
+    color: white;
+    display: block;
+    padding: 40px 0px 20px 0px;
+    margin-top: 10px;
+    right: 0;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 100px;
+}
+
+.bottom-bar a {
+    color: lightgray;
+}
+
+.bottom-bar-category {
+    margin: 0 8.5%;
+}
+
+.footer {
+    text-align: right;
+    margin: 0 8.5%;
+}
+
+/* .bottom-bar #footer {
+    margin: 30px 0px;
+    text-align: center;
+    position: relative;
+    font-family: 'Titillium Web', Arial, sans-serif;
+    top: 0px;
+    font-size:95%;
+    float: left;
+    width: 100%;
+    color: #FFFFFF;
+}
+.bottom-bar #footer .side, #footer .middle {
+        display: inline-block;
+        vertical-align: middle;
+}
+.bottom-bar #footer .side {
+        margin: 0px;
+        width: 100px;
+}
+.bottom-bar #footer .middle {
+        margin: 0px;
+        width: 60%;
+        padding: 10px;
+        text-align: justify;
+} */
