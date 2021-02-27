@@ -42,7 +42,7 @@ class topLevelHeaderDepthZero extends HTMLElement {
                         <td>
                             <div class="dropdown">
                                 <span class="normal">
-                                    <a href="./workinggroups/index.html"><b>Working Groups</b></a>
+                                    <a href="./workinggroups/index.html">Working Groups</a>
                                 </span>
                                 <div class="dropdown-content">
                                     <p class="menu"><a href="./workinggroups/asiapacific.html">Asia-Pacific</a></p>
@@ -111,7 +111,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
                         <td>
                             <div class="dropdown">
                                 <span class="normal">
-                                    <a href="../workinggroups/index.html"><b>Working Groups</b></a>
+                                    <a href="../workinggroups/index.html">Working Groups</a>
                                 </span>
                                 <div class="dropdown-content">
                                     <p class="menu"><a href="../workinggroups/asiapacific.html">Asia-Pacific</a></p>
@@ -180,7 +180,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
                         <td>
                             <div class="dropdown">
                                 <span class="normal">
-                                    <a href="../../workinggroups/index.html"><b>Working Groups</b></a>
+                                    <a href="../../workinggroups/index.html">Working Groups</a>
                                 </span>
                                 <div class="dropdown-content">
                                     <p class="menu"><a href="../../workinggroups/asiapacific.html">Asia-Pacific</a></p>
