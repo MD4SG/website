@@ -14,7 +14,7 @@ class currentWGsHeader extends HTMLElement {
                         <td><a href="civicparticipation.html">Civic Participation</a></td>
                         <td><a href="data.html">Data Economies</a></td>
                         <td><a href="dev.html">Development</a></td>
-                        <td><a href="distributivejustice.html">Distributive Justice</a></td>
+                        <td><a href="distributivejustice.html">Discrimination</a></td>
                         <td><a href="environment.html">Environment</a></td>
                         <td><a href="inequality.html">Inequality</a></td>
                         <td><a href="latinamerica.html">Latin America</a></td>
