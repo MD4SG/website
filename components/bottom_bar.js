@@ -6,11 +6,11 @@ class bottomBar extends HTMLElement {
     connectedCallback() {
       this.innerHTML = `
             <div class="bottom-bar">
-            <!-- <div class="bottom-bar-category">
+<!-- 
+            <div class="bottom-bar-category">
                 <strong>Organizers:</strong> <a href="http://www.cs.cornell.edu/~red/" target="_blank">Rediet Abebe</a>, <a href="https://web.stanford.edu/~wanyili/">Wanyi Li</a>,
                 <a href="https://sites.google.com/view/irene-lo" target="_blank">Irene Lo</a>, <a href="https://www.fmarmolejo.com/">Francisco Marmolejo Cossio</a>, and <a href="http://www.columbia.edu/~as5001/">Ana-Andreea Stoica</a>.
             </div>
-            -->
             <div class="bottom-bar-category">
                 <strong>Contact:</strong> <a href="mailto:organizers@md4sg.com">organizers@md4sg.com</a>
             </div>
@@ -44,7 +44,29 @@ class bottomBar extends HTMLElement {
                     ga("send", "pageview");
                 </script>
             </div>
-        </div>
+-->
+              <div class="bottom-col1" style="background-color:#aaa;">
+                <h2>MD4SG</h2>
+                <p>Improving equitable access to opportunity using algorithms, optimization, and mechanism design.</p>
+                <small>Updated Feb 2021. Web design by <a href="http://www.kiragoldner.com/">Kira Goldner</a> + <a href="http://www.sritej.com/">Sritej Attaluri</a>.</small>
+              </div>
+              <div class="bottom-col2" style="background-color:#bbb;">
+                <h2>JOIN US</h2>
+                <p>Contact us at <a href="mailto:organizers@md4sg.com">organizers@md4sg.com</a></p>
+                <p>Google calendar: <a href="https://calendar.google.com/calendar/r?cid=dTZqdnE1dW9pNjdiaXE2bGlvZ3Zkb2RoM2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"> MD4SG Events</a> <br/>
+                Youtube: <a href="https://www.youtube.com/channel/UC2hBoxmzDtAwTTjRRM99f4w/videos"> MD4SG Organizers</a><br/>
+                Medium: <a href="https://www.google.com/url?q=https://medium.com/@md4sg&sa=D&source=hangouts&ust=1589249244225000&usg=AFQjCNGPKdq4H0b4o-GyDXXO1IV8dxYUww">@MD4SG</a><br/>
+                Twitter: <a href="https://twitter.com/MD4SG">@MD4SG</a>
+                </p>
+              </div>
+              <div class="bottom-col3" style="background-color:#ccc;">
+                <h2>LINKS</h2>
+                <p><a href="https://www.md4sg.com/aboutus.html">About us</a></p>
+                <p><a href="https://www.md4sg.com/workshop/index.html">Events</a></p>	
+                <p><a href="https://www.md4sg.com/colloquium/index.html">Colloquium Series</a></p>
+                <p><a href="https://www.md4sg.com/workinggroups/index.html">Working Groups</a></p>
+              </div>
+            </div>
       `;
     }
   }
