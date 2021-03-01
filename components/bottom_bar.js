@@ -6,10 +6,11 @@ class bottomBar extends HTMLElement {
     connectedCallback() {
       this.innerHTML = `
             <div class="bottom-bar">
-            <div class="bottom-bar-category">
+            <!-- <div class="bottom-bar-category">
                 <strong>Organizers:</strong> <a href="http://www.cs.cornell.edu/~red/" target="_blank">Rediet Abebe</a>, <a href="https://web.stanford.edu/~wanyili/">Wanyi Li</a>,
                 <a href="https://sites.google.com/view/irene-lo" target="_blank">Irene Lo</a>, <a href="https://www.fmarmolejo.com/">Francisco Marmolejo Cossio</a>, and <a href="http://www.columbia.edu/~as5001/">Ana-Andreea Stoica</a>.
             </div>
+            -->
             <div class="bottom-bar-category">
                 <strong>Contact:</strong> <a href="mailto:organizers@md4sg.com">organizers@md4sg.com</a>
             </div>
