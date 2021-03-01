@@ -44,13 +44,13 @@ class bottomBar extends HTMLElement {
                 </script>
             </div>
 -->
-            <div class="column1">
+            <div class="bottom-col1">
                 <h3>MD4SG</h3>
                 <p>Improving equitable access to opportunity using algorithms, optimization, and mechanism design.</p>
                 <small>Updated Feb 2021. Web design by <a href="http://www.kiragoldner.com/" style="color:black">Kira Goldner</a> + <a href="http://www.sritej.com/" style="color:black">Sritej Attaluri</a>.</small>
               </div>
 
-              <div class="column2" >
+              <div class="bottom-col2" >
                 <h3>JOIN US</h3>
                 <p>Contact us at <a href="mailto:organizers@md4sg.com">organizers@md4sg.com</a></p>
                 <p>Google calendar: <a href="https://calendar.google.com/calendar/r?cid=dTZqdnE1dW9pNjdiaXE2bGlvZ3Zkb2RoM2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"> MD4SG Events</a> <br/>
@@ -60,7 +60,7 @@ class bottomBar extends HTMLElement {
                 </p>
               </div>
 
-              <div class="column3">
+              <div class="bottom-col3">
                 <h3>LINKS</h3>
                 <p><a href="https://www.md4sg.com/aboutus.html">About us</a></p>
                 <p><a href="https://www.md4sg.com/workshop/index.html">Events</a></p>	
