@@ -524,8 +524,9 @@ table ol {
 }
 
 .bottom-bar {
-    background-color: #20668F;
-    color: white;
+    background-color: #cccccc;
+    font-family: 'Titillium Web', Arial, sans-serif;
+    font-size:11pt;
     display: block;
     padding: 40px 0px 20px 0px;
     margin-top: 10px;
@@ -533,11 +534,11 @@ table ol {
     left: 0;
     bottom: 0;
     width: 100%;
-    height: 100px;
+    overflow: hidden;
 }
 
 .bottom-bar a {
-    color: lightgray;
+    color: #cb2714;
 }
 
 .bottom-bar-category {
@@ -547,6 +548,27 @@ table ol {
 .footer {
     text-align: right;
     margin: 0 8.5%;
+}
+
+.bottom-col1{
+  background-color: #cccccc;
+  float: left;
+  padding: 10px;
+  width: 35%;
+}
+
+.bottom-col2{
+  background-color: #cccccc;
+  float: left;
+  padding: 10px;
+  width: 40%;
+}
+
+.bottom-col3{
+  background-color: #cccccc;
+  float: left;
+  padding: 10px;
+  width: 25%;
 }
 
 /* .bottom-bar #footer {
