@@ -44,7 +44,7 @@ class bottomBar extends HTMLElement {
                     ga("send", "pageview");
                 </script>
             </div>
--->
+
               <div class="bottom-col1" style="background-color:#aaa;">
                 <h2>MD4SG</h2>
                 <p>Improving equitable access to opportunity using algorithms, optimization, and mechanism design.</p>
@@ -67,6 +67,7 @@ class bottomBar extends HTMLElement {
                 <p><a href="https://www.md4sg.com/workinggroups/index.html">Working Groups</a></p>
               </div>
             </div>
+-->
       `;
     }
   }
