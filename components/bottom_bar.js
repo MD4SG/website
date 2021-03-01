@@ -45,7 +45,7 @@ class bottomBar extends HTMLElement {
                 </script>
             </div>
 -->
-
+<!-- 
               <div class="bottom-col1">
                 <h3>MD4SG</h3>
                 <p>Improving equitable access to opportunity using algorithms, optimization, and mechanism design.</p>
@@ -69,8 +69,9 @@ class bottomBar extends HTMLElement {
                 <p><a href="https://www.md4sg.com/colloquium/index.html">Colloquium Series</a></p>
                 <p><a href="https://www.md4sg.com/workinggroups/index.html">Working Groups</a></p>
               </div>
-
+-->
             </div>
+
       `;
     }
   }
