@@ -1,0 +1,561 @@
+body {
+    background-color: #FFFFFF;
+    /*background-color: #EBEBEB;*/
+    -webkit-animation-delay: 0.1s;
+    -webkit-animation-name: fontfix;
+    -webkit-animation-duration: 0.1s;
+    -webkit-animation-iteration-count: 1;
+    -webkit-animation-timing-function: linear;
+    margin: 0px;
+    padding: 0px;
+}
+
+@-webkit-keyframes fontfix {
+    from { opacity: 1; }
+    to   { opacity: 1; }
+}
+
+div#headpane {
+
+    text-align:justify;
+    position:relative;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top:-8px;
+    color: #CB2701;
+    font-family:Optima, Verdana, sans-serif;
+    font-weight: bold;
+    font-size: medium;
+    height:auto;
+    background-color: #ffffff;
+/*    border-width:4pt;*/
+/*    border-style:solid;*/
+    /*border-bottom:0px;*/
+    /*z-index: 100;*/
+/*    border-color: #CB2701;*/
+    width: 100%;
+}
+
+div#contentpane {
+    
+    text-align:justify;
+    position:relative;
+    margin-top: 0px;
+    padding-top: 5px;
+    margin-left:auto;
+    margin-right:auto;
+    margin-bottom: -1%;
+    color: #000000;
+    font-family: 'Titillium Web', Arial, sans-serif;
+    font-size:13pt;
+/*    width:auto;*/
+    width: 100%; /*can change to 1000, or min-width: 910px;*/
+    background-color: #FFFFFF;
+/*    border-width:4pt;*/
+/*    border-style:solid;*/
+/*    border-color: #000000;*/
+    clear: both;
+    line-height: 175%;
+
+}
+
+
+div#pagetitle{
+    
+    font-size:180%;
+    text-align:left;
+/*    background: #CCCCCC;*/
+    /*font-family: Verdana, Arial, Helvetica, sans-serif;*/
+    font-family: 'Titillium Web', Optima, Verdana, sans-serif;
+    margin-top: 3%;
+    /*margin-left: 10%;*/
+    margin-left: 5%;
+    margin-bottom: 3%; /*previously 4*/
+
+}
+
+.myname {
+    font-size: 300%;
+    margin-bottom: -5%;
+    text-align: center;
+}
+
+.phd {
+    font-size: 75%;
+    text-align: center;
+    color: #000000;
+    font-weight: normal;
+}
+
+.md4sg {
+    font-size: 120%;
+    text-align: center;
+    color: #000000;
+    font-weight: bold;
+}
+
+
+div#content {
+    position: relative;
+    top: 20px;
+    width: 83%;
+    margin: 0 8.5%;
+    /*font-family: Arial, sans-serif;*/
+    font-family: Optima, 'Titillium Web', Arial, sans-serif;
+    /*border-top: 2pt #000000 solid;
+    z-index: 0;*/
+}
+
+/*div#footer {
+    position: relative;
+    font-family: Arial, sans-serif;
+    top: 20px;
+    font-size:80%;
+}*/
+
+table#bottomtable {
+    margin:1em;
+}
+
+td#bottomtableh {
+    padding:0.25em;
+}
+
+table#applettable {
+    margin-left: auto;
+    margin-right: auto;
+    
+}
+
+table#buttonstable {
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom:-5px;
+    
+}
+
+p {
+    height: auto;
+    margin: 0;
+}
+
+h1{
+    color: #000000;
+    font-family: 'Titillium Web', sans-serif;
+    margin: 0% 0% 1% 0%;
+}
+
+h1 > a{
+    color: #000000;
+    font-family: 'Titillium Web', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h1>a:hover {
+    color: #000000;
+    font-family: 'Titillium Web', sans-serif;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+h2{
+    color: #000000;
+    font-family: 'Titillium Web', sans-serif;
+    margin: -1% 0%;
+    font-size: 180%;
+}
+
+.head{
+    height: 5px;
+    color: #000000;
+    background-color: #000000;
+    margin-bottom: 20px;
+}
+
+.projectTitle {
+    height: 5px;
+    color: #CB2701;
+    background-color: #CB2701;
+    margin-bottom: 20px;
+    border: 1px solid #CB2701;
+}
+
+#footer {
+    margin: 30px 0px;
+    text-align: center;
+    position: relative;
+    font-family: 'Titillium Web', Arial, sans-serif;
+    top: 0px;
+    font-size:95%;
+    float: left;
+    width: 100%;
+    color: #FFFFFF;
+}
+#footer .side, #footer .middle {
+        display: inline-block;
+        vertical-align: middle;
+}
+#footer .side {
+        margin: 0px;
+        width: 100px;
+}
+#footer .middle {
+        margin: 0px;
+        width: 60%;
+        padding: 10px;
+        text-align: justify;
+}
+
+/*#footer a:link, #contentpane a:link {
+    color: #000000;
+    text-decoration: none;
+}*/
+
+/*#footer a:visited, #contentpane a:visited {
+    color: #000000;
+    text-decoration: none;
+}*/
+
+#footer a:hover, #contentpane a:hover {
+    color: #CB2701;
+}
+
+hr {
+    border-color: #000000;
+}
+
+.left {
+    text-align: right;
+    float: right;
+    /*margin-left: 5%;*/
+    margin-top: .5%;
+    margin-bottom: 1%;
+    font-size: 75%;
+    font-family: 'Titillium Web', Arial, sans-serif;
+    background-color: #000000;
+    color: #FFFFFF;
+    line-height: 95%;
+}
+
+span.left2 {
+    text-align: right;
+    float: right;
+    margin-left: 5%;
+    margin-bottom: 1%;
+    font-size: 75%;
+}
+
+.project {
+    /*float: left;*/
+    font-size: 175%;
+    font-weight: bold;
+    font-family: 'Titillium Web', Arial, sans-serif;
+    background-color: #000000;
+    color: #C0B283;
+    padding: 5px;
+}
+
+span.project2 {
+    /*float: left;*/
+    font-size: 125%;
+    font-weight: bold;
+}
+
+.title {
+    background-color: #000000;
+    color: #FFFFFF;
+    /*padding: 12px 12px 20px 12px;*/
+    padding: 5px 5px;
+    margin-bottom: 15px;
+}
+
+.abstract{
+    /*clear: both;*/
+    float: left;
+    margin-top: -1%;
+}
+
+.link {
+    color: #C0B283;
+    /*float: right;*/
+    text-align: center;
+    /*margin-top: 10px;*/
+    float: right;
+}
+
+.link a{
+	/*text-transform:uppercase;*/
+	font-weight: normal;
+	/*letter-spacing:.1em;*/
+	text-decoration:underline;
+	/*font-size:.9em;*/
+	/*background:transparent url(../graphics/arr.gif) left center no-repeat;*/
+	/*padding-left:24px;*/
+	color: #000000;
+	font-family: "gesta", arial, sans-serif;	
+}
+.link a:hover{
+	/*text-decoration:underline;*/
+	color: #C0B283;
+}
+
+.right {
+    float: right;
+    margin-left: 5%;
+    margin-bottom: 1%;
+}
+
+.center {
+    text-align: center;
+}
+
+.border {
+    border: 3pt solid #000000;
+}
+.r {
+    float: right;
+}
+.l {
+    float: left;
+}
+.section {
+    font-weight: bold;
+    font-size: large;
+    border-top: 1px solid black;
+    border-bottom: 1px solid #CCCCCC;
+    margin-bottom: -10px;
+}
+
+.nospace {
+    margin-top: 0px;
+}
+
+.researchimg {
+    width: 200px;
+    height: 200px;
+    border: 2px solid black;
+    display: inline-block;
+    clear: left;
+    margin-top: 0px;
+    margin-left: 30px;
+    margin-right: 30px;
+    margin-bottom: 20px;
+}
+
+.researchimg > img {
+    vertical-align: middle;
+}
+
+.descript {
+    display: inline-block;
+    width: 63%;
+    vertical-align: top;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#headerimg {
+    margin-right: 30px;
+    /*border: 2px solid #FFCC00;*/
+    border: 2px solid #FFFFFF;
+    width: 180px;
+    height: 180px;
+    display: inline-block;
+    margin-bottom: 10px;
+    margin-left: 20px;
+}
+
+#name {
+    display: inline-block;
+    width: 600px;
+    vertical-align: top;
+}
+a {
+    color: #CB2701;
+    text-decoration: none;
+    font-weight: normal;
+}
+/*a:visited {
+    color: #C5BAD5;
+    text-decoration: underline;
+}*/
+
+a:hover {
+    color: #CB2701;
+}
+
+a.pdf {
+    color: #FFCC00;
+    text-decoration: none;
+}
+a.pdf:hover {
+    text-decoration: underline;
+}
+
+.email {
+    font-family: Arial, sans-serif;
+    color: #000000;
+    font-size: 65%;
+    font-weight: normal;
+    text-align: center;
+}
+
+.interests {
+    margin-top: 0%;
+}
+
+table ol {
+    margin: 0%;
+    margin-left: -1.3em;
+}
+
+.rg {
+    border-collapse: collapse;
+    text-align:left;
+    vertical-align: top;
+    width: 87%;
+}
+
+.rg table, .rg th, .rg td{
+    /*border: 1px solid black;*/
+    border-bottom: 1px solid #CCCCCC;
+    border-collapse: collapse;
+    vertical-align: top;
+    padding: 5px 10px;
+}
+
+.break {
+    color: #B4B4B4;
+}
+
+.nav {
+    width: 100%;
+    background-color: #20668F;
+/*    border-color: #CB2701;*/
+    color: #FFFFFF;
+    padding: 15px 0px;
+    margin-top: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12pt;
+    text-align: center;
+}
+
+.nav table, .nav tr, .nav td, .nav th {
+    border: none;
+    padding: 0px 20px;
+    color: #FFFFFF;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.nav a {
+    color: #FFFFFF;
+    text-decoration: none
+}
+
+.nav a:hover {
+    color: #CCCCCC;
+}
+
+.bignav {
+    width: 100%;
+    background-color: #CCCCCC;
+/*    border-color: #CB2701;*/
+    color: #000000;
+    padding: 5px 0px;
+    margin-top: 10px;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 12pt;
+    text-align: center;
+    font-family: 'Titillium Web', Arial, sans-serif;
+}
+
+.bignav table, .bignav tr, .bignav td, .bignav th {
+    border: none;
+    padding: 0px 65px;
+    color: #000000;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.bignav a {
+    color: #000000;
+    text-decoration: none
+}
+
+.bignav a:hover {
+    color: #000000;
+}
+
+.module tr, .module td, .module th{
+    border-bottom: 4px double black;
+}
+
+
+.firstheader tr, .firstheader td{
+    border-top: 2px solid black;
+    border-bottom: none;
+    font-size: 120%;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+
+.last tr, .last td{
+    border-bottom: 2px solid black;
+}
+
+
+/* Dropdown Button */
+/*.dropbtn {
+    background-color: #4CAF50;
+    color: white;
+    padding: 16px;
+    font-size: 16px;
+    border: none;
+}*/
+
+/* The container <div> - needed to position the dropdown content */
+.dropdown {
+    position: relative;
+    display: inline-block;
+    font-family: inherit; /* Important for vertical align on mobile phones */
+    margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Dropdown Content (Hidden by Default) */
+.dropdown-content {
+    display: none;
+    position: absolute;
+    min-width: 100px;
+    box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+    z-index: 100;
+    background-color: #CCCCCC;
+    left: -15px;
+    /*top: 30px;*/
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+    color: black;
+    padding: 5px 0px;
+    text-decoration: none;
+    display: block;
+}
+
+
+/* Change color of dropdown links on hover */
+.dropdown-content a:hover {background-color: #ddd}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+    display: block;
+}
+
+/* Change the background color of the dropdown button when the dropdown content is shown */
+.dropdown:hover .dropbtn {
+    background-color: #3e8e41;
+}
