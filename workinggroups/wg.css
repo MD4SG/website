@@ -588,13 +588,13 @@ ul {
     margin-top: -10px;
 }
 
-.cards-container {
+.wg-cards-container {
 	display: flex;
 	justify-content: space-between;
 	flex-wrap: wrap
 }
 
-.card {
+.wg-card {
 	flex-basis: 32%;
 	text-align: center;
 	padding-top: 10px;
@@ -604,39 +604,39 @@ ul {
 	font-size: 14px;
 }
 
-img.card-image {
+img.wg-card-image {
 	display: none;
 }
 
-img.card-image-blue {
+img.wg-card-image-blue {
 	display: inherit;
 }
 
-h3.card-title {
+h3.wg-card-title {
 	color: black;
 }
 
-.card .card-description {
+.wg-card .wg-card-description {
 	display: none;
 }
 
-.card:hover .card-organizers {
+.wg-card:hover .wg-card-organizers {
 	display: none;
 }
 
-.card:hover .card-description {
+.wg-card:hover .wg-card-description {
 	display: inline;
 }
 
-.card:hover img.card-image {
+.wg-card:hover img.wg-card-image {
 	display: initial;
 }
 
-.card:hover img.card-image-blue {
+.wg-card:hover img.wg-card-image-blue {
 	display: none;
 }
 
-.card:hover h3.card-title {
+.wg-card:hover h3.wg-card-title {
 	color: #CB2701;
 }
 /* Create four equal columns that floats next to each other */

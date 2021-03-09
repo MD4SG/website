@@ -591,29 +591,3 @@ table ol {
     text-align: right;
     margin: 0 8.5%;
 }
-
-/* .bottom-bar #footer {
-    margin: 30px 0px;
-    text-align: center;
-    position: relative;
-    font-family: 'Titillium Web', Arial, sans-serif;
-    top: 0px;
-    font-size:95%;
-    float: left;
-    width: 100%;
-    color: #FFFFFF;
-}
-.bottom-bar #footer .side, #footer .middle {
-        display: inline-block;
-        vertical-align: middle;
-}
-.bottom-bar #footer .side {
-        margin: 0px;
-        width: 100px;
-}
-.bottom-bar #footer .middle {
-        margin: 0px;
-        width: 60%;
-        padding: 10px;
-        text-align: justify;
-} */
