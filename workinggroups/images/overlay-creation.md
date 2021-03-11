@@ -1,7 +1,7 @@
 # Guide on how to make consistent blue overlays for WGs
 1. Find your WG photo (save source for adding a citation if not free to use)
-2. Go to https://www.photopea.com/
-3. Copy your photo
+2. Copy your photo
+3. Go to https://www.photopea.com/
 4. New Project (dimensions should be pre-filled) -> Create
 5. Paste your photo
 6. Image -> Canvas Size -> 730 x 488 (to match the others)
