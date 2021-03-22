@@ -17,6 +17,7 @@ class topLevelHeaderDepthZero extends HTMLElement {
                                     <a href="./workshop/index.html">Events</a>
                                 </span>
                                 <div class="dropdown-content">
+                                    <p class="menu"><a href="https://eaamo.org/">EAAMO &#39;21</a></p>
                                     <p class="menu"><a href="./workshop/FAACT21/faact21tutorial.html">FAccT &#39;21</a></p>
                                     <p class="menu"><a href="./workshop/MD4SG20/index.html">MD4SG &#39;20</a></p>
                                     <p class="menu"><a href="./workshop/DSA20/dsa20tutorial.html">DSA &#39;20</a></p>
@@ -87,6 +88,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                     <a href="../workshop/index.html">Events</a>
                                 </span>
                                 <div class="dropdown-content">
+                                    <p class="menu"><a href="https://eaamo.org/">EAAMO &#39;21</a></p>
                                     <p class="menu"><a href="../workshop/FAACT21/faact21tutorial.html">FAccT &#39;21</a></p>
                                     <p class="menu"><a href="../workshop/MD4SG20/index.html">MD4SG &#39;20</a></p>
                                     <p class="menu"><a href="../workshop/DSA20/dsa20tutorial.html">DSA &#39;20</a></p>
@@ -157,6 +159,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                     <a href="../../workshop/index.html">Events</a>
                                 </span>
                                 <div class="dropdown-content">
+                                    <p class="menu"><a href="https://eaamo.org/">EAAMO &#39;21</a></p>
                                     <p class="menu"><a href="../../workshop/FAACT21/faact21tutorial.html">FAccT &#39;21</a></p>
                                     <p class="menu"><a href="../../workshop/MD4SG20/index.html">MD4SG &#39;20</a></p>
                                     <p class="menu"><a href="../../workshop/DSA20/dsa20tutorial.html">DSA &#39;20</a></p>
