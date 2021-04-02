@@ -197,10 +197,6 @@ h2{
     color: #CB2701;
 }
 
- {
-    border-color: #000000;
-}
-
 .left {
     text-align: right;
     float: right;
@@ -590,4 +586,17 @@ table ol {
 .footer {
     text-align: right;
     margin: 0 8.5%;
+   
+}
+
+.footer-clean a {
+    color: #CB2701 !important;
+}
+
+div#contentpane a {
+    color: #CB2701 !important;
+}
+
+div#contentpane a:hover {
+    color: #CB2701 !important;
 }

@@ -592,3 +592,14 @@ table ol {
 .dropdown:hover .dropbtn {
     background-color: #3e8e41;
 }
+.footer-clean a {
+    color: #CB2701 !important;
+}
+
+div#contentpane a {
+    color: #CB2701 !important;
+}
+
+div#contentpane a:hover {
+    color: #CB2701 !important;
+}

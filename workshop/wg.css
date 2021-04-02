@@ -679,3 +679,14 @@ font-size:13px;
 opacity:0.6;
 }
 
+.footer-clean a {
+    color: #CB2701 !important;
+}
+
+div#contentpane a {
+    color: #CB2701 !important;
+}
+
+div#contentpane a:hover {
+    color: #CB2701 !important;
+}
