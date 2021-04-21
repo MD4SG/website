@@ -53,7 +53,6 @@ class topLevelHeaderDepthZero extends HTMLElement {
                                     <p class="menu"><a href="./workinggroups/dev.html">Development</a></p>
                                     <p class="menu"><a href="./workinggroups/distributivejustice.html">Discrimination</a></p>
                                     <p class="menu"><a href="./workinggroups/environment.html">Environment</a></p>
-                                    <p class="menu"><a href="./workinggroups/fairness.html">Fairness</a></p>
                                     <p class="menu"><a href="./workinggroups/inequality.html">Inequality</a></p>
                                     <p class="menu"><a href="./workinggroups/latinamerica.html">Latin America and Caribbean</a></p>
                                     <p class="menu"><a href="./workinggroups/lawpolicy.html">Law & Policy</a></p>
@@ -124,7 +123,6 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                     <p class="menu"><a href="../workinggroups/dev.html">Development</a></p>
                                     <p class="menu"><a href="../workinggroups/distributivejustice.html">Discrimination</a></p>
                                     <p class="menu"><a href="../workinggroups/environment.html">Environment</a></p>
-                                    <p class="menu"><a href="../workinggroups/fairness.html">Fairness</a></p>
                                     <p class="menu"><a href="../workinggroups/inequality.html">Inequality</a></p>
                                     <p class="menu"><a href="../workinggroups/latinamerica.html">Latin America and Caribbean</a></p>
                                     <p class="menu"><a href="../workinggroups/lawpolicy.html">Law & Policy</a></p>
@@ -195,7 +193,6 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                     <p class="menu"><a href="../../workinggroups/dev.html">Development</a></p>
                                     <p class="menu"><a href="../../workinggroups/distributivejustice.html">Discrimination</a></p>
                                     <p class="menu"><a href="../../workinggroups/environment.html">Environment</a></p>
-                                    <p class="menu"><a href="../../workinggroups/fairness.html">Fairness</a></p>
                                     <p class="menu"><a href="../../workinggroups/inequality.html">Inequality</a></p>
                                     <p class="menu"><a href="../../workinggroups/latinamerica.html">Latin America and Caribbean</a></p>
                                     <p class="menu"><a href="../../workinggroups/lawpolicy.html">Law & Policy</a></p>
