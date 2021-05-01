@@ -51,24 +51,41 @@
                 <h1><a name="speakers"></a>Upcoming Talks</h1>
 
                 <hr class="head" />
-                <!--
-<br> 
-<br />
-&nbsp;
-</div>
 
+                <button class="accordion">Upcoming Talks</button>
+                <div class="panel">
+                    <p>Lorem ipsum...</p>
+                </div>
 
-<div>
-<center>
-<h3 style="color: #CB2701;
-    font-family: 'Titillium Web', sans-serif;
-    margin: 1% 0%;
-    font-size: 140%;
-    font-weight: bold;"> </h3>
-</center>
+                <button class="accordion">Spring 2021 Talks</button>
+                <div class="panel">
+                    <p>Lorem ipsum...</p>
+                </div>
 
-<p></p>
-</div> -->
+                <button class="accordion">Fall 2020 Talks</button>
+                <div class="panel">
+                    <p>Lorem ipsum...</p>
+                </div>
+
+                <button class="accordion">Spring 2020 Talks</button>
+                <div class="panel">
+                    <p>Lorem ipsum...</p>
+                </div>
+
+                <button class="accordion">Fall 2019 Talks</button>
+                <div class="panel">
+                    <p>Lorem ipsum...</p>
+                </div>
+
+                <button class="accordion">Spring 2019 Talks</button>
+                <div class="panel">
+                    <p>Lorem ipsum...</p>
+                </div>
+
+                <button class="accordion">Fall 2018 Talks</button>
+                <div class="panel">
+                    <p>Lorem ipsum...</p>
+                </div>
 
 
                 <div class="researchimg"><img src="mariarodriguez.jpeg" style="max-width: 100%; height: auto;" /></div>
@@ -162,5 +179,21 @@
             </div>
         </div>
 		<bottom-bar-component></bottom-bar-component>
+        <script>
+            var acc = document.getElementsByClassName("accordion");
+            var i;
+            
+            for (i = 0; i < acc.length; i++) {
+              acc[i].addEventListener("click", function() {
+                this.classList.toggle("active");
+                var panel = this.nextElementSibling;
+                if (panel.style.maxHeight) {
+                  panel.style.maxHeight = null;
+                } else {
+                  panel.style.maxHeight = panel.scrollHeight + "px";
+                }
+              });
+            }
+        </script>
     </body>
 </html>
