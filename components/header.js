@@ -35,10 +35,6 @@ class topLevelHeaderDepthZero extends HTMLElement {
                                 <span class="normal">
                                     <a href="./colloquium/index.html">Colloquium Series</a>
                                 </span>
-                                <div class="dropdown-content">
-                                    <p class="menu"><a href="./colloquium/index.html">Upcoming</a></p>
-                                    <p class="menu"><a href="./colloquium/past.html">Previous </a></p>
-                                </div>
                             </div>
                         </td>
                         <td>
@@ -105,10 +101,6 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                 <span class="normal">
                                     <a href="../colloquium/index.html">Colloquium Series</a>
                                 </span>
-                                <div class="dropdown-content">
-                                    <p class="menu"><a href="../colloquium/index.html">Upcoming</a></p>
-                                    <p class="menu"><a href="../colloquium/past.html">Previous </a></p>
-                                </div>
                             </div>
                         </td>
                         <td>
@@ -175,10 +167,6 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                 <span class="normal">
                                     <a href="../../colloquium/index.html">Colloquium Series</a>
                                 </span>
-                                <div class="dropdown-content">
-                                    <p class="menu"><a href="../../colloquium/index.html">Upcoming</a></p>
-                                    <p class="menu"><a href="../../colloquium/past.html">Previous </a></p>
-                                </div>
                             </div>
                         </td>
                         <td>
