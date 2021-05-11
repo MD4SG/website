@@ -31,7 +31,7 @@ class bottomBar extends HTMLElement {
                             </ul>
                         </div>
                         <div class="col-lg-3 item social"><a href="https://twitter.com/MD4SG"><i class="icon ion-social-twitter"></i></a><a href="https://www.youtube.com/channel/UC2hBoxmzDtAwTTjRRM99f4w/videos"><i class="icon ion-social-youtube"></i></a><a href="mailto:organizers@md4sg.com"><i class="icon ion-email"></i></a><a href="https://calendar.google.com/calendar/r?cid=dTZqdnE1dW9pNjdiaXE2bGlvZ3Zkb2RoM2tAZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ"><i class="icon ion-android-calendar"></i></a><a href="https://medium.com/@md4sg"><i class="icon ion-social-markdown"></i></a>
-                            <p class="copyright">Updated March 2021. Website design by:<br>Kira Goldner + Sritej Attaluri </p>
+                            <p class="copyright">Updated March 2021.  Website design by:<br>Kira Goldner + Sritej Attaluri + <br><a href="https://georgeobaido.com/">George Obaido</a></p>
                         </div>
                     </div>
                 </div>
