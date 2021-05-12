@@ -576,7 +576,11 @@ ul {
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
     background-color: #20668F;
-    color: #FFF;
+    background: #20668f;
+    background: -moz-linear-gradient(left, #20668f 0%, #20668f 48px,#cccccc 48px, #cccccc 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #20668f 0%,#20668f 48px,#cccccc 48px,#cccccc 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #20668f 0%,#20668f 48px,#cccccc 48px,#cccccc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+    color: #000;
     cursor: pointer;
     padding: 18px;
     width: 100%;
@@ -584,23 +588,29 @@ ul {
     border: none;
     outline: none;
     transition: 0.4s;
+    margin-bottom: 10px;
   }
   
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
   .active, .accordion:hover {
     background-color: #20668F;
-  }
+    background: #20668f;
+    background: -moz-linear-gradient(left, #20668f 0%, #20668f 48px,#cccccc 48px, #cccccc 100%); /* FF3.6-15 */
+    background: -webkit-linear-gradient(left, #20668f 0%,#20668f 48px,#cccccc 48px,#cccccc 100%); /* Chrome10-25,Safari5.1-6 */
+    background: linear-gradient(to right, #20668f 0%,#20668f 48px,#cccccc 48px,#cccccc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+  
+}
 
-  .accordion:after {
+  .accordion:before {
     content: '+';
     font-size: 20px !important;
     color: #FFF;
-    float: right;
-    margin-left: 5px;
+    float: left;
+    margin-right: 40px;
     font-size: 12px;
   }
   
-  .active:after {
+  .active:before {
     content: "-";
     font-size: 35px !important;
     color: #FFF;
