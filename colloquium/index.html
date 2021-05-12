@@ -83,10 +83,10 @@
 
                 </div>
 
-                <button class="accordion">Spring 2021 Talks</button>
+                <button id="spring2021" class="accordion">Spring 2021 Talks</button>
                 <div class="panel">
                     <br />
-                    <div class="researchimg"><img src="vukosisq.png" style="max-width: 100%; height: auto;" /></div>
+                    <div class="researchimg"><img id="vukosi-spring2021" src="vukosisq.png" style="max-width: 100%; height: auto;" /></div>
 
                     <div class="descript">
                         <h2>Vukosi Marivate, University of Pretoria, South Africa</h2>
@@ -115,7 +115,7 @@
                         As practising Data Science researchers and practitioners, the COVID-19 pandemic has highlighed both the need for data driven decision making and the reality of what it really takes to get to that point. It is not only about throwing data + model at a problem. It is about understanding the environment that one is in and then strategising on what might best work for that environment. In this talk I look back at some of the work we have done within responding to different challenges within both Data Science and Natural Language Processing. I place at the center people and how they are the important piece in our practice.		<p></p> 
                     </div>
                     <br />
-                    <div class="researchimg"><img src="caterina.jpg" style="max-width: 100%; height: auto;" /></div>
+                    <div class="researchimg"><img id="caterina-spring2021" src="caterina.jpg" style="max-width: 100%; height: auto;" /></div>
 
                     <div class="descript">
                         <h2>Caterina Calsamiglia, Institute of Political Economy and Governance, Barcelona</h2>
@@ -211,7 +211,7 @@
                     </div>
                 </div>
 
-                <button class="accordion">Fall 2020 Talks</button>
+                <button id="fall2020" class="accordion">Fall 2020 Talks</button>
                 <div class="panel">
                     <br />
                     <div class="researchimg"><img src="../images/moon.jpg" style="max-width: 100%; height: auto;" /></div>
@@ -338,7 +338,7 @@
 
                 </div>
 
-                <button class="accordion">Spring 2020 Talks</button>
+                <button id="spring2020" class="accordion">Spring 2020 Talks</button>
                 <div class="panel">
                     <br />
                     <div class="researchimg"><img src="lisacook.jpg"  style="max-width:100%;height:auto;" /></div>
@@ -529,7 +529,7 @@
                     </div>
                 </div>
 
-                <button class="accordion">Fall 2019 Talks</button>
+                <button id="fall2019" class="accordion">Fall 2019 Talks</button>
                 <div class="panel">
                     <br />
                     <div class="researchimg"><img src="elisa2.jpg" style="max-width:100%;height:auto;" /></div>
@@ -675,7 +675,7 @@
                     </div>
                 </div>
 
-                <button class="accordion">Spring 2019 Talks</button>
+                <button id="spring2019" class="accordion">Spring 2019 Talks</button>
                 <div class="panel">
                     <br />
                     <div class="researchimg"><img src="justine.jpg" width="200px" height="200px" /></div>
@@ -836,7 +836,7 @@
                     </div>
                 </div>
 
-                <button class="accordion">Fall 2018 Talks</button>
+                <button id="fall2018" class="accordion">Fall 2018 Talks</button>
                 <div class="panel">
                     <br />
                     <div class="researchimg"><img src="al.jpg" width="200px" height="200px" /></div>
@@ -947,6 +947,16 @@
             }
 
             document.getElementById("upcoming-talks").click();
+
+            // pageURL = window.location.href;
+
+            // spring2021open = pageURL.includes("spring2021");
+            // if (spring2021open){
+            //     document.getElementById("spring2021").click();
+                
+            // }
+            // document.getElementById("spring2021").scrollIntoView();
+            console.log(spring2021open);
         </script>
     </body>
 </html>
