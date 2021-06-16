@@ -519,6 +519,42 @@ table ol {
     font-weight: normal;
 }
 
+.people-container {
+	display: flex;
+	justify-content: space-evenly;
+	flex-wrap: wrap
+}
+
+.person {
+	flex-basis: 17%;
+	text-align: center;
+	padding-top: 10px;
+}
+
+img.person-image {
+	border-radius: 50%;
+}
+
+.person .person-name {
+	display: inline;
+    text-decoration: underline;
+}
+
+.person .person-role {
+    font-size: 14px;
+}
+
+.person .person-website img {
+    display: inline;
+    width: 15px;
+    margin-right: 10px;
+}
+
+.person .person-linkedin img {
+    display: inline;
+    width: 15px;
+}
+
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
     background-color: #20668F;
