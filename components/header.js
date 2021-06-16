@@ -67,6 +67,16 @@ class topLevelHeaderDepthZero extends HTMLElement {
                                 </div>
                             </div>
                         </td>
+                        <td>
+                            <div class="dropdown">
+                                <span class="normal">
+                                    <a>Projects</a>
+                                </span>
+                                <div class="dropdown-content">
+                                    <p class="menu"><a href="./workinggroups/projects/datastories.html">Data and the Global South Project</a></p>
+                                </div>
+                            </div>
+                        </td>
                     </tr>
                 </tbody>
             </table>
@@ -144,6 +154,16 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                 </div>
                             </div>
                         </td>
+                        <td>
+                            <div class="dropdown">
+                                <span class="normal">
+                                    <a>Projects</a>
+                                </span>
+                                <div class="dropdown-content">
+                                    <p class="menu"><a href="../workinggroups/projects/datastories.html">Data and the Global South Project</a></p>
+                                </div>
+                            </div>
+                        </td>
                     </tr>
                 </tbody>
             </table>
@@ -218,6 +238,16 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                     <p class="menu"><a href="../../workinggroups/latinamerica.html">Latin America and Caribbean</a></p>
                                     <p class="menu"><a href="../../workinggroups/lawpolicy.html">Law & Policy</a></p>
                                     <p class="menu"><a href="../../workinggroups/previous.html">Previous Working Groups</a></p>
+                                </div>
+                            </div>
+                        </td>
+                        <td>
+                            <div class="dropdown">
+                                <span class="normal">
+                                    <a>Projects</a>
+                                </span>
+                                <div class="dropdown-content">
+                                    <p class="menu"><a href="../../workinggroups/projects/datastories.html">Data and the Global South Project</a></p>
                                 </div>
                             </div>
                         </td>
