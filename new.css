@@ -521,17 +521,17 @@ table ol {
 
 .people-container {
 	display: flex;
-	justify-content: space-evenly;
+	justify-content: flex-start;
 	flex-wrap: wrap;
     margin-bottom: 40px;
 }
 
 .person {
-	flex-basis: 13%;
+	flex-basis: 12%;
 	text-align: center;
 	padding-top: 10px;
-    margin-left: 30px;
-    margin-right: 30px;
+    margin-left: 50px;
+    margin-right: 0px;
 }
 
 img.person-image {
