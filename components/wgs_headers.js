@@ -2,7 +2,7 @@ class currentWGsHeader extends HTMLElement {
     constructor() {
       super();
     }
-  
+
     connectedCallback() {
       this.innerHTML = `
         <div class="nav">
@@ -10,8 +10,8 @@ class currentWGsHeader extends HTMLElement {
                 <tbody>
                     <tr class="middle-ribbon">
                         <td><a href="index.html">About</a></td>
-                        <td><a href="asiapacific.html">Asia-Pacific</a></td>
                         <td><a href="civicparticipation.html">Civic Participation</a></td>
+                        <td><a href="practitioners.html">Conversations with Practitioners</a></td>
                         <td><a href="data.html">Data Economies</a></td>
                         <td><a href="dev.html">Development</a></td>
                         <td><a href="distributivejustice.html">Discrimination</a></td>
@@ -27,7 +27,7 @@ class currentWGsHeader extends HTMLElement {
       `;
     }
   }
-  
+
 customElements.define('current-wgs-header-component', currentWGsHeader);
 
 class previousWGsHeader extends HTMLElement {
