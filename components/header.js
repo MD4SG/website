@@ -2,7 +2,7 @@ class topLevelHeaderDepthZero extends HTMLElement {
     constructor() {
       super();
     }
-  
+
     connectedCallback() {
       this.innerHTML = `
             <div class="bignav">
@@ -54,8 +54,8 @@ class topLevelHeaderDepthZero extends HTMLElement {
                                     <a href="./workinggroups/index.html">Working Groups</a>
                                 </span>
                                 <div class="dropdown-content">
-                                    <p class="menu"><a href="./workinggroups/asiapacific.html">Asia-Pacific</a></p>
                                     <p class="menu"><a href="./workinggroups/civicparticipation.html">Civic Participation</a></p>
+                                    <p class="menu"><a href="./workinggroups/practitioners.html">Conversations with Practitioners</a></p>
                                     <p class="menu"><a href="./workinggroups/data.html">Data Economies</a></p>
                                     <p class="menu"><a href="./workinggroups/dev.html">Development</a></p>
                                     <p class="menu"><a href="./workinggroups/distributivejustice.html">Discrimination</a></p>
@@ -89,7 +89,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
     constructor() {
       super();
     }
-  
+
     connectedCallback() {
       this.innerHTML = `
             <div class="bignav">
@@ -141,8 +141,8 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                     <a href="../workinggroups/index.html">Working Groups</a>
                                 </span>
                                 <div class="dropdown-content">
-                                    <p class="menu"><a href="../workinggroups/asiapacific.html">Asia-Pacific</a></p>
                                     <p class="menu"><a href="../workinggroups/civicparticipation.html">Civic Participation</a></p>
+                                    <p class="menu"><a href="../workinggroups/practitioners.html">Conversations with Practitioners</a></p>
                                     <p class="menu"><a href="../workinggroups/data.html">Data Economies</a></p>
                                     <p class="menu"><a href="../workinggroups/dev.html">Development</a></p>
                                     <p class="menu"><a href="../workinggroups/distributivejustice.html">Discrimination</a></p>
@@ -176,7 +176,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
     constructor() {
       super();
     }
-  
+
     connectedCallback() {
       this.innerHTML = `
             <div class="bignav">
@@ -228,8 +228,8 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                     <a href="../../workinggroups/index.html">Working Groups</a>
                                 </span>
                                 <div class="dropdown-content">
-                                    <p class="menu"><a href="../../workinggroups/asiapacific.html">Asia-Pacific</a></p>
                                     <p class="menu"><a href="../../workinggroups/civicparticipation.html">Civic Participation</a></p>
+                                    <p class="menu"><a href="../../workinggroups/practitioners.html">Conversations with Practitioners</a></p>
                                     <p class="menu"><a href="../../workinggroups/data.html">Data Economies</a></p>
                                     <p class="menu"><a href="../../workinggroups/dev.html">Development</a></p>
                                     <p class="menu"><a href="../../workinggroups/distributivejustice.html">Discrimination</a></p>
@@ -258,7 +258,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
       `;
     }
   }
-  
+
   customElements.define('top-level-header-depth-zero-component', topLevelHeaderDepthZero);
   customElements.define('top-level-header-depth-one-component', topLevelHeaderDepthOne);
   customElements.define('top-level-header-depth-two-component', topLevelHeaderDepthTwo);
