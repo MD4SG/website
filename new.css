@@ -670,3 +670,8 @@ div#contentpane a {
 div#contentpane a:hover {
     color: #CB2701 !important;
 }
+
+a#banner {
+    display: flex;
+    justify-content: center;
+}
