@@ -77,6 +77,11 @@ class topLevelHeaderDepthZero extends HTMLElement {
                                 </div>
                             </div>
                         </td>
+                        <td style="background-color:#20668F">
+                            <span class="normal">
+                                <a style="color:white" href="https://eaamo.org/">EAAMO</a>
+                            </span>
+                        </td>
                     </tr>
                 </tbody>
             </table>
@@ -164,6 +169,11 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                 </div>
                             </div>
                         </td>
+                        <td style="background-color:#20668F">
+                            <span class="normal">
+                                <a style="color:white" href="https://eaamo.org/">EAAMO</a>
+                            </span>
+                        </td>
                     </tr>
                 </tbody>
             </table>
@@ -250,6 +260,11 @@ class topLevelHeaderDepthOne extends HTMLElement {
                                     <p class="menu"><a href="../../workinggroups/projects/datastories.html">Data and the Global South Project</a></p>
                                 </div>
                             </div>
+                        </td>
+                        <td style="background-color:#20668F">
+                            <span class="normal">
+                                <a style="color:white" href="https://eaamo.org/">EAAMO</a>
+                            </span>
                         </td>
                     </tr>
                 </tbody>
