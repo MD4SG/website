@@ -1,0 +1,514 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html lang="en" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml">
+
+
+<head>
+	<!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=G-Z20TCE9DXQ"></script>
+	<script>
+			window.dataLayer = window.dataLayer || [];
+			function gtag(){dataLayer.push(arguments);}
+			gtag('js', new Date());
+			gtag('config', 'G-Z20TCE9DXQ');
+	</script>
+	<meta charset="us-ascii">
+	<title>MD4SG &#39;20</title>
+	<link href="https://fonts.googleapis.com/css?family=Titillium+Web:400,700" rel="stylesheet" type="text/css" />
+	<link href="new.css" rel="stylesheet" type="text/css" />
+	<script src="../../components/header.js" type="text/javascript" defer></script>
+	<script src="../../components/bottom_bar.js" type="text/javascript" defer></script>
+	<!-- stylesheets for Footer-->
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.1.3/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/ionicons/2.0.1/css/ionicons.min.css">
+	<link rel="stylesheet" href="../../components/footer_styles.css">
+	<!-- stylesheets for Footer-->
+</head>
+
+<body>
+
+	<div id="headpane">
+		<top-level-header-depth-two-component></top-level-header-depth-two-component>
+		<div id="pagetitle" style="width: 600px; margin: auto;">
+			<div id="name">
+				<p class="myname">MD4SG &#39;20</p>
+
+				<p class="phd" style="font-size:94%;">4th Workshop on Mechanism Design for Social Good</p>
+
+				<p class="email">August 17-19, 2020</p>
+			</div>
+		</div>
+
+		<div class="nav">
+			<table>
+				<tbody>
+					<tr>
+						<td><a href="index.html">Home</a></td>
+						<td>
+							<div class="dropdown"><span class="normal"><a><b>Program</b></a></span>
+								<div class="dropdown-content">
+									<p class="menu"><a href="program.html"><b>Schedule</b></a></p>
+
+									<p class="menu"><a href="invited.html">Invited Speakers</a></p>
+									<p class="menu"><a href="posters.html">Accepted Posters</a></p>
+								</div>
+
+							</div>
+						</td>
+						<td>
+							<div class="dropdown"><span class="normal"><a>Call For Contributions</a></span>
+								<div class="dropdown-content">
+									<p class="menu"><a href="cfp.html">English</a></p>
+
+									<p class="menu"><a href="cfp_espanol.html">Espa&ntilde;ol</a></p>
+								</div>
+							</div>
+						</td>
+						<!-- <td><a href="program.html">Program</a></td>
+			<td><a href="cfp.html">Call For Participation</td>
+			<td><a href="cfp_espanol.html">Convocatoria</a></td>
+			<td><a href="invited.html">Invited Speakers</a></td> -->
+						<td class="on">
+							<div class="dropdown"><span class="normal"><a>Participation</a></span>
+								<div class="dropdown-content">
+									<p class="menu"><a href="virtual-venue.html">Virtual Venue</a></p>
+									<p class="menu"><a href="registration.html">Registration</a></p>
+
+									<p class="menu"><a href="logistics.html">Presentation Logistics</a></p>
+								</div>
+							</div>
+						</td>
+						<td><a href="awards.html">Awards</a></td>
+						<td><a href="about.html">About</a></td>
+						<!--<td><a href="registration.html">Conference Registration</a></td>
+			<td class="on">Presentation Logistics</a></td>
+			<td><a href="invited.html">Invited Speakers</td>
+			<td><a href="travel.html">Travel Support</a></td>
+			<td><a href="http://www.sigecom.org/ec19/registration.html" target="_blank">Conference Registration</a></td>
+			<td><a href="about.html">About</a></td> -->
+					</tr>
+				</tbody>
+			</table>
+		</div>
+	</div>
+
+	<div id="contentpane">
+		<div id="content">
+			<h1>NeurIPS 2021, curated by MD4SG</h1>
+
+			<p>[Open, intro, meetup date/time, discord]</p>
+
+            <p>Note that all times are in Pacific Standard Time (PST) as is the timezone used by the NeurIPS conference. <a href="https://savvytime.com/converter/ca-los-angeles/dec-6-2021/" target="_blank">(Convert to your timezone.)</a> See the full <a href="https://nips.cc/virtual/2021/calendar" target="_blank">NeurIPS 2021 schedule</a>.</p>
+
+            <p>This MD4SG meetup at NeurIPS 2021 is organized by <a href="https://jfinocchiaro.github.io/">Jessie Finocchiaro</a>, <a href="https://www.zhaw.ch/en/about-us/person/hetw/">Corinna Hertweck</a>, and <a href="https://lily-x.github.io/">Lily Xu</a> from the MD4SG Community Engagement team.</p>
+
+            <h2>Tutorials</h2>
+
+            <table>
+            <thead><tr><th title="Field #1">Title</th>
+            <th title="Field #2">Presenters</th>
+            <th title="Field #3">Day</th>
+            <th title="Field #4">Time</th>
+            </tr></thead>
+            <tbody>
+                <tr>
+            <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=21889" target="_blank">Beyond Fairness in Machine Learning</a></td>
+            <td>Timnit Gebru, Emily Denton</td>
+            <td>6-Dec</td>
+            <td>01:00 PM &ndash; 05:30 PM (PST)</td>
+            </tr>
+            <tr>
+            <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=21898" target="_blank">A Journey Through the Opportunity of Low Resourced Natural Language Processing — An African Lens</a></td>
+            <td>Vukosi Marivate, David Adelani</td>
+            <td>6-Dec</td>
+            <td>05:00 AM &ndash; 07:20 AM (PST)</td>
+            </tr>
+            </tbody>
+            </table>
+
+            <h2>Invited Talks</h2>
+
+            <table>
+                <thead><tr><th title="Field #1">Title</th>
+                <th title="Field #2">Presenter</th>
+                <th title="Field #3">Day</th>
+                <th title="Field #4">Time</th>
+                </tr></thead>
+                <tbody>
+            <tr>
+            <td>The Banality of Scale: A Theory on the Limits of Modeling Bias and Fairness Frameworks for Social Justice (and other lessons from the Pandemic)</td>
+            <td>Mary Gray</td>
+            <td>7-Dec</td>
+            <td>15:00-16:30 PST</td>
+            </tr>
+            <tr>
+            <td> </td>
+            <td>Daniel Kahneman</td>
+            <td>9-Dec</td>
+            <td>07:00-08:30 PST</td>
+            </tr>
+            <tr>
+            <td>How Copyright Shapes Your Datasets and What To Do About It</td>
+            <td>Amanda Levendowski</td>
+            <td>9-Dec</td>
+            <td>10:00-11:00 PST</td>
+            </tr>
+            <tr>
+            <td> </td>
+            <td>Meredith Broussard</td>
+            <td>9-Dec</td>
+            <td>15:00-16:30 PST</td>
+            </tr>
+            </tbody>
+            </table>
+
+            <h2>Socials</h2>
+
+            <table>
+            <thead><tr><th title="Field #1">Title</th>
+            <th title="Field #2">Organizers</th>
+            <th title="Field #3">Day</th>
+            <th title="Field #4">Time</th>
+            </tr></thead>
+            <tbody>
+            <tr>
+            <td><a href="https://www.latinxinai.org/neurips-2021-about" target="_blank">Latinx in AI Social</a></td>
+            <td>Andres Munoz, Maria Luisa Santiago</td>
+            <td>7-Dec</td>
+            <td>06:00 PM &ndash; 07:00 PM (PST)</td>
+            </tr>
+            <tr>
+            <td><a href="https://sites.google.com/view/queer-in-ai/neurips-2021?authuser=0" target="_blank">Queer in AI</a></td>
+            <td>Claas Voelcker</td>
+            <td>9-Dec</td>
+            <td>05:00 AM &ndash; 07:00 AM (PST)</td>
+            </tr>
+            <tr>
+            <td><a href="https://forms.gle/ix18PCxasitSWfaU8" target="_blank">Women in AI Ignite</a></td>
+            <td>Anoush Najarian</td>
+            <td>9-Dec</td>
+            <td>11:00 AM &ndash; 12:00 PM (PST)</td>
+            </tr>
+            <tr>
+            <td><a href="https://docs.google.com/forms/d/e/1FAIpQLSeGI81CDEUZkkWiURFf4dyo61iMxTvCq-Gti66saYffrhLdjA/viewform" target="_blank">Un-bookclub Algorithms of Oppression</a></td>
+            <td>Anoush Najarian, Sindhuja Parimalarangan</td>
+            <td>10-Dec</td>
+            <td>11:00 AM &ndash; 12:00 PM (PST)</td>
+            </tr>
+            </tbody>
+            </table>
+
+
+            <h2>Workshops</h2>
+
+            <table>
+            <thead><tr><th title="Field #1">Title</th>
+            <th title="Field #2">Organizers</th>
+            <th title="Field #3">Day</th>
+            <th title="Field #4">Time</th>
+            </tr></thead>
+            <tbody>
+            <tr>
+            <td><a href="https://sites.google.com/view/mlecon2021/home" target="_blank">Machine Learning Meets Econometrics (MLECON)</a></td>
+            <td>David Bruns-Smith, Arthur Gretton, Limor Gultchin, Niki Kilbertus, Krikamol Muandet, Evan Munro, Angela Zhou</td>
+            <td>13-Dec</td>
+            <td>05:00 &ndash; 12:10 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://www.afciworkshop.org/afcr2021" target="_blank">Algorithmic Fairness through the lens of causality and robustness</a></td>
+            <td>Jessica Schrouff, Awa Dieng, Golnoosh Farnadi, Mark Kwegyir-Aggrey, Miriam Rateike</td>
+            <td>13-Dec</td>
+            <td>06:00-17:30 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://sites.google.com/view/hcai-human-centered-ai-neurips/home" target="_blank">Human Centered AI</a></td>
+            <td>Michael Muller, Plamen P Angelov, Shion Guha, Marina Kogan, Gina Neff, Nuria Oliver, Manuel Rodriguez, Adrian Weller</td>
+            <td>13-Dec</td>
+            <td>07:00-4:45 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://www.hadr.ai/" target="_blank">AI for Humatarian Assistance and Disaster Response</a></td>
+            <td>Ritwik Gupta, Esther Rolf, Robin Murphy, Eric Heim</td>
+            <td>13-Dec</td>
+            <td>09:00-10:00 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://sites.google.com/view/strategicml/about" target="_blank">Learning in the Presence of Strategic Behavior</a></td>
+            <td>Omer Ben-Porat, Nika Haghtalab, Annie Liang, Yishay Mansour, David Parkes</td>
+            <td>13-Dec</td>
+            <td>09:00-14:50 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://sites.google.com/nyu.edu/mlph2021" target="_blank">Machine Learning in Public Health</a></td>
+            <td>Rumi Chunara, Daniel Lizotte, Laura Rosella, Esra Suel, Marie Charpignon</td>
+            <td>14-Dec</td>
+            <td> </td>
+            </tr>
+            <tr>
+            <td><a href="https://sites.google.com/g.harvard.edu/research2clinics" target="_blank">Bridging the Gap: from Machine Learning Research to Clinical Practice</a></td>
+            <td> </td>
+            <td>14-Dec</td>
+            <td>05:00 - 15:00 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://sites.google.com/view/ecorl2021/" target="_blank">Ecological Theory of Reinforcement Learning: How Does Task Design Influence Agent Learning?</a></td>
+            <td>Manfred Díaz, Hiroki Furuta, Elise van der Pol, Lisa Lee, Shixiang (Shane) Gu, Pablo Samuel Castro, Simon Du, Marc Bellemare, Sergey Levine</td>
+            <td>14-Dec</td>
+            <td>0500-1410 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://perls-workshop.github.io/" target="_blank">Political Economy of Reinforcement Learning Systems</a></td>
+            <td>Thomas Gilbert, Stuart J Russell, Tom O Zick, Aaron J Snoswell, Michael Dennis</td>
+            <td>14-Dec</td>
+            <td>0500-1345 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://lmrl.org/" target="_blank">Learning Meaningful Representations of Life</a></td>
+            <td>Elizabeth Wood, Adji Bousso Dieng, Aleksandrina Goeva, Anshul Kundaje, Barbara Engelhardt, Chang Liu, David Van Valen, Debora Marks, Edward Boyden, Eli N Weinstein, Lorin Crawford, Mor Nitzan, Romain Lopez, Tamara Broderick, Ray Jones, Wouter Boomsma, Yixin Wang</td>
+            <td>14-Dec</td>
+            <td>0500-1700 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://www.cooperativeai.com/neurips-2021" target="_blank">Cooperative AI</a></td>
+            <td>Natasha Jaques, Edward Hughes, Jakob Foerster, Noam Brown, Kalesha Bullard, Charlotte Smith</td>
+            <td>14-Dec</td>
+            <td>0520 - 1415 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://ml4d.notion.site/ml4d/Machine-Learning-for-the-Developing-World-ML4D-2021-548251eab3df4517819c4742c2e5c853" target="_blank">Machine Learning for Development World (ML4D): Global Challenges</a></td>
+            <td>Paula Rodriguez Diaz, Konstantin Klemmer, Sally Simone Fobi, Oluwafemi Azeez, Niveditha Kalavakonda, Aya Salama, Tejumade Afonja</td>
+            <td>14-Dec</td>
+            <td>0600-1400 PST</td>
+            </tr>
+            <tr>
+            <td><a href="https://sites.google.com/view/whmd2021/" target="_blank">Workshop on Human and Machine Decisions</a></td>
+            <td>Daniel Reichman, Joshua Peterson, Kiran Tomlinson, Annie Liang, Tom Griffiths</td>
+            <td>14-Dec</td>
+            <td>0605-1530 PST</td>
+            </tr>
+            </tbody>
+            </table>
+
+            <h2>Affinity Workshops</h2>
+            <table>
+                <thead><tr><th title="Field #1">Title</th>
+                <th title="Field #2">Organizers</th>
+                <th title="Field #3">Day</th>
+                <th title="Field #4">Time</th>
+                </tr></thead>
+                <tbody>
+            <tr>
+            <td><a href="https://sites.google.com/view/queer-in-ai/neurips-2021?authuser=0" target="_blank">Queer in AI Workshop</a></td>
+            <td>Claas Voelcker, Arjun Subramonian, Vishakha Agrawal, Luca Soldaini, Pan Xu, Pranav A, William Agnew, Juan Pajaro Velasquez, Yanan Long, Ashwin S, Mary Anne Smart, Patrick Feeney, Ruchira Ray</td>
+            <td></td>
+            <td></td>
+            </tr>
+            <tr>
+            <td><a href="https://www.latinxinai.org/neurips-2021" target="_blank">LatinX in AI (LXAI) Research @ NeurIPS 2021 1</a></td>
+            <td>Maria Luisa Santiago, Andres Munoz, Laura Montoya, Karla Caballero, Isabel Metzger, Jose Gallego-Posada, Juan Banda, Gabriela Vega, Amanda Duarte</td>
+            <td>7-Dec</td>
+            <td>08:00 AM &ndash; 08:00 PM (PST)</td>
+            </tr>
+            <tr>
+            <td><a href="https://indigenousinai.org" target="_blank">Indigenous in AI Workshop</a></td>
+            <td>Mason Grimshaw, Michael Running Wolf, Patrick Feeney</td>
+            <td>8-Dec</td>
+            <td>11:00 AM &ndash; 02:30 PM (PST)</td>
+            </tr>
+            </tbody></table>
+
+
+			<h2>Papers</h2>
+
+            <p>Papers co-authored by members of the MD4SG community.
+
+
+            <table>
+                <tr>
+                    <td>Authors</td>
+                    <td>Title</td>
+                </tr>
+                <tr>
+                    <td>David Liu, Mate Lengyel</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26252" target="_blank">A universal probabilistic spike count model reveals ongoing modulation of neural variability</a></td>
+                </tr>
+                <tr>
+                    <td>Alexandra Peste, Eugenia Iofinova, Adrian Vladu, Dan Alistarh</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26837" target="_blank">AC/DC: Alternating Compressed/DeCompressed Training of Deep Neural Networks</a></td>
+                </tr>
+                <tr>
+                    <td>Varun Gupta, Christopher Jung, Seth Neel, Aaron Roth, Saeed Sharifi-Malvajerdi, Chris Waites</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26381" target="_blank">Adaptive Machine Unlearning</a></td>
+                </tr>
+                <tr>
+                    <td>Priya Donti, Aayushya Agarwal, Neeraj Vijay Bedmutha, Larry Pileggi, J. Zico Kolter</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27413" target="_blank">Adversarially robust learning for security-constrained optimal power flow</a></td>
+                </tr>
+                <tr>
+                    <td>Nate Veldt, Austin Benson, Jon Kleinberg</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28053" target="_blank">Approximate Decomposable Submodular Function Minimization for Cardinality-Based Components</a></td>
+                </tr>
+                <tr>
+                    <td>Wei Tang, Chien-Ju Ho, Yang Liu</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26027" target="_blank">Bandit Learning with Delayed Impact of Actions</a></td>
+                </tr>
+                <tr>
+                    <td>Cristóbal Guzmán, Nishant Mehta, Ali Mortazavi</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26762" target="_blank">Best-case lower bounds in online learning</a></td>
+                </tr>
+                <tr>
+                    <td>Shengjia Zhao, Michael Kim, Roshni Sahoo, Tengyu Ma, Stefano Ermon</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27249" target="_blank">Calibrating Predictions to Decisions: A Novel Approach to Multi-Class Calibration</a></td>
+                </tr>
+                <tr>
+                    <td>Tian Gao, Shankar Subramanian, Debarun Bhattacharjya, Xiao Shou, Nicholas Mattei, Kristin P Bennett</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28554" target="_blank">Causal Inference for Event Pairs in Multivariate Point Processes</a></td>
+                </tr>
+                <tr>
+                    <td>Ulrich Aïvodji, Hiromi None Arai, Sébastien Gambs, Satoshi Hara</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27065" target="_blank">Characterizing the risk of fairwashing</a></td>
+                </tr>
+                <tr>
+                    <td>Julien Grand-Clément, Christian Kroer</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28800" target="_blank">Conic Blackwell Algorithm: Parameter-Free Convex-Concave Saddle-Point Solving</a></td>
+                </tr>
+                <tr>
+                    <td>Nikos Vlassis, Ashok Chandrashekar, Fernando Amat, Nathan Kallus</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27827" target="_blank">Control Variates for Slate Off-Policy Evaluation</a></td>
+                </tr>
+                <tr>
+                    <td>Denizalp Goktas, Amy Greenwald</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26703" target="_blank">Convex-Concave Min-Max Stackelberg Games</a></td>
+                </tr>
+                <tr>
+                    <td>Jamie Kang, Faidra Monachou, Moran Koren, Itai Ashlagi</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27049" target="_blank">Counterbalancing Learning and Strategic Incentives in Allocation Markets</a></td>
+                </tr>
+                <tr>
+                    <td>Ho Chit Siu, Jaime Peña, Edenna Chen, Yutai Zhou, Victor Lopez, Kyle Palko, Kimberlee Chang, Ross Allen</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=25949" target="_blank">Evaluation of Human-AI Teams for Learned and Rule-Based Agents in Hanabi</a></td>
+                </tr>
+                <tr>
+                    <td>Thomas Spooner, Nelson Vadori, Sumitra Ganesh</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27553" target="_blank">Factored Policy Gradients: Leveraging Structure for Efficient Learning in MOMDPs</a></td>
+                </tr>
+                <tr>
+                    <td>Elisa Celis, Anay Mehrotra, Nisheeth Vishnoi</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26603" target="_blank">Fair Classification with Adversarial Perturbations</a></td>
+                </tr>
+                <tr>
+                    <td>Mohammad Mahdi Khalili, Xueru Zhang, Mahed Abroshan</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28457" target="_blank">Fair Sequential Selection Using Supervised Learning Models</a></td>
+                </tr>
+                <tr>
+                    <td>Bailey Flanigan, Greg Kehne, Ariel Procaccia</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27327" target="_blank">Fair Sortition Made Transparent</a></td>
+                </tr>
+                <tr>
+                    <td>Shahrzad Haddadan, Yue Zhuang, Cyrus Cousins, Eli Upfal</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27255" target="_blank">Fast Doubly-Adaptive MCMC to Estimate the Gibbs Partition Function with Weak Mixing Time Bounds</a></td>
+                </tr>
+                <tr>
+                    <td>Jonathan Bragg, Arman Cohan, Kyle Lo, Iz Beltagy</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26580" target="_blank">FLEX: Unifying Evaluation for Few-Shot NLP</a></td>
+                </tr>
+                <tr>
+                    <td>Frances Ding, Jean-Stanislas Denain, Jacob Steinhardt</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27098" target="_blank">Grounding Representation Similarity Through Statistical Testing</a></td>
+                </tr>
+                <tr>
+                    <td>Meena Jagadeesan, Alexander Wei, Yixin Wang, Michael Jordan, Jacob Steinhardt</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26293" target="_blank">Learning Equilibria in Matching Markets from Bandit Feedback</a></td>
+                </tr>
+                <tr>
+                    <td>Kai Wang, Sanket Shah, Haipeng Chen, Andrew Perrault, Finale Doshi-Velez, Milind Tambe</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26734" target="_blank">Learning MDPs from Features: Predict-Then-Optimize for Sequential Decision Making by Reinforcement Learning</a></td>
+                </tr>
+                <tr>
+                    <td>Sirui Li, Zhongxia Yan, Cathy Wu</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27875" target="_blank">Learning to delegate for large-scale vehicle routing</a></td>
+                </tr>
+                <tr>
+                    <td>Jaeho Lee, Jihoon Tack, Namhoon Lee, Jinwoo Shin</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27572" target="_blank">Meta-Learning Sparse Implicit Neural Representations</a></td>
+                </tr>
+                <tr>
+                    <td>Kate Donahue, Jon Kleinberg</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28790" target="_blank">Optimality and Stability in Federated Learning: A Game-theoretic Approach</a></td>
+                </tr>
+                <tr>
+                    <td>Aurelien Bibaut, Maria Dimakopoulou, Nathan Kallus, Antoine Chambaz, Mark van der Laan</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27658" target="_blank">Post-Contextual-Bandit Inference</a></td>
+                </tr>
+                <tr>
+                    <td>Neehar Peri, Michael Curry, Samuel Dooley, John P Dickerson</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27429" target="_blank">PreferenceNet: Encoding Human Preferences in Auction Design with Deep Learning</a></td>
+                </tr>
+                <tr>
+                    <td>Lingxiao Wang, Zhuoran Yang, Zhaoran Wang</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28819 " target="_blank">Provably Efficient Causal Reinforcement Learning with Confounded Observational Data</a></td>
+                </tr>
+                <tr>
+                    <td>Walter Gerych, Tom Hartvigsen, Luke Buquicchio, Emmanuel Agu, Elke A. Rundensteiner</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27545" target="_blank">Recurrent Bayesian Classifier Chains for Exact Multi-Label Classification</a></td>
+                </tr>
+                <tr>
+                    <td>Roshni Sahoo, Shengjia Zhao, Alyssa Chen, Stefano Ermon</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26203" target="_blank">Reliable Decisions with Threshold Calibration</a></td>
+                </tr>
+                <tr>
+                    <td>Frances Ding, Moritz Hardt, John Miller, Ludwig Schmidt</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26854" target="_blank">Retiring Adult: New Datasets for Fair Machine Learning</a></td>
+                </tr>
+                <tr>
+                    <td>Jai Moondra, Hassan Mortagy, Swati Gupta</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=25963" target="_blank">Reusing Combinatorial Structure: Faster Iterative Projections over Submodular Base Polytopes</a></td>
+                </tr>
+                <tr>
+                    <td>Aurelien Bibaut, Nathan Kallus, Maria Dimakopoulou, Antoine Chambaz, Mark van der Laan</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=25948" target="_blank">Risk Minimization from Adaptively Collected Data: Guarantees for Supervised and Policy Learning</a></td>
+                </tr>
+                <tr>
+                    <td>Zeyu Shen, Lodewijk Gelauff, Ashish Goel, Aleksandra Korolova, Kamesh Munagala</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28808" target="_blank">Robust Allocations with Diversity Constraints</a></td>
+                </tr>
+                <tr>
+                    <td>Wenshuo Guo, Michael Jordan, Emmanouil Zampetakis</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26606" target="_blank">Robust Learning of Optimal Auctions</a></td>
+                </tr>
+                <tr>
+                    <td>Celestine Mendler-Dünner, Wenshuo Guo, Stephen Bates, Michael Jordan</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28468" target="_blank">Test-time Collective Prediction</a></td>
+                </tr>
+                <tr>
+                    <td>Sohini Upadhyay, Shalmali None Joshi, Himabindu Lakkaraju</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=27274" target="_blank">Towards Robust and Reliable Algorithmic Recourse</a></td>
+                </tr>
+                <tr>
+                    <td>Virginie Do, Sam Corbett-Davies, Jamal Atif, Nicolas Usunier</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=26346" target="_blank">Two-sided fairness in rankings via Lorenz dominance</a></td>
+                </tr>
+                <tr>
+                    <td>Jessie Finocchiaro, Rafael Frongillo, Bo Waggoner</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28551" target="_blank">Unifying lower bounds on prediction dimension of convex surrogates</a></td>
+                </tr>
+                <tr>
+                    <td>Ziwei Xu, Xudong Shen, Yongkang Wong, Mohan Kankanhalli</td>
+                    <td><a href="https://nips.cc/Conferences/2021/Schedule?showEvent=28192" target="_blank">Unsupervised Motion Representation Learning with Capsule Autoencoders</a></td>
+                </tr>
+            </table>
+
+
+
+			</center>
+			&nbsp;
+
+
+		</div>
+		<bottom-bar-component></bottom-bar-component>
+
+	</div>
+</body>
+
+
+</html>
