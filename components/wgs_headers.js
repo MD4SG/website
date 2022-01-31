@@ -5,25 +5,19 @@ class currentWGsHeader extends HTMLElement {
 
     connectedCallback() {
       this.innerHTML = `
-        <div class="nav">
-            <table>
-                <tbody>
-                    <tr class="middle-ribbon">
-                        <td><a href="index.html">About</a></td>
-                        <td><a href="civicparticipation.html">Civic Participation</a></td>
-                        <td><a href="practitioners.html">Conversations with Practitioners</a></td>
-                        <td><a href="data.html">Data Economies</a></td>
-                        <td><a href="dev.html">Development</a></td>
-                        <td><a href="distributivejustice.html">Discrimination</a></td>
-                        <td><a href="environment.html">Environment</a></td>
-                        <td><a href="inequality.html">Inequality</a></td>
-                        <td><a href="latinamerica.html">Latin America</a></td>
-                        <td><a href="lawpolicy.html">Law & Policy</a></td>
-                        <td><a href="previous.html">Previous Working Groups</a></td>
-                    </tr>
-                </tbody>
-            </table>
-        </div>
+          <div class="nav middle-ribbon px-5" style="justify-content: space-between">
+                <span><a href="index.html">About</a></span> |
+                <span><a href="civicparticipation.html">Civic Participation</a></span> |
+                <span><a href="practitioners.html">Conversations with Practitioners</a></span> |
+                <span><a href="data.html">Data Economies</a></span> |
+                <span><a href="dev.html">Development</a></span> |
+                <span><a href="distributivejustice.html">Discrimination</a></span> |
+                <span><a href="environment.html">Environment</a></span> |
+                <span><a href="inequality.html">Inequality</a></span> |
+                <span><a href="latinamerica.html">Latin America</a></span> |
+                <span><a href="lawpolicy.html">Law & Policy</a></span> |
+                <span><a href="previous.html">Previous Working Groups</a></span>
+          </div>
       `;
     }
   }
@@ -37,20 +31,14 @@ class previousWGsHeader extends HTMLElement {
 
   connectedCallback() {
     this.innerHTML = `
-      <div class="nav">
-          <table>
-              <tbody>
-                  <tr class="middle-ribbon">
-                    <td><a href="previous.html">Previous Working Groups</a></td>
-                    <td><a href="fairness.html">Bias, Discrimination, and Fairness</td>
-                    <td><a href="healthcare.html">Healthcare</a></td>
-                    <td><a href="housing.html">Housing</td>
-                    <td><a href="OLM.html">Online Labor Markets</td>
-                    <td><a href="../researchgroup/index.html">Reading Group</a></td>
-                    <td><a href="index.html">Current Working Groups</a></td>
-                  </tr>
-              </tbody>
-          </table>
+      <div class="nav middle-ribbon px-5" style="justify-content: space-between">
+        <span><a href="previous.html">Previous Working Groups</a></span> |
+        <span><a href="fairness.html">Bias, Discrimination, and Fairness</a></span> |
+        <span><a href="healthcare.html">Healthcare</a></span> |
+        <span><a href="housing.html">Housing</a></span> |
+        <span><a href="OLM.html">Online Labor Markets</a></span> |
+        <span><a href="../researchgroup/index.html">Reading Group</a></span> |
+        <span><a href="index.html">Current Working Groups</a></span>
       </div>
     `;
   }
