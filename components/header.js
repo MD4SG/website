@@ -5,7 +5,7 @@ class topLevelHeaderDepthZero extends HTMLElement {
 
     connectedCallback() {
       this.innerHTML = `
-            <div class="bignav navbar navbar-toggleable-sm">
+            <div class="bignav navbar navbar-toggleable-sm px-5">
                 <div class="navbar-text">
                     <span class="normal">
                         <a href="./index.html">Home</a>
@@ -86,7 +86,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
 
     connectedCallback() {
       this.innerHTML = `
-        <div class="bignav navbar navbar-toggleable-sm">
+        <div class="bignav navbar navbar-toggleable-sm px-5">
         <div class="navbar-text">
             <span class="normal">
                 <a href="../index.html">Home</a>
@@ -167,7 +167,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
 
     connectedCallback() {
       this.innerHTML = `
-      <div class="bignav navbar navbar-toggleable-sm">
+      <div class="bignav navbar navbar-toggleable-sm px-5">
       <div class="navbar-text">
           <span class="normal">
               <a href="../../index.html">Home</a>
