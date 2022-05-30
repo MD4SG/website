@@ -558,6 +558,35 @@ img.person-image {
     margin-left: 10px;
 }
 
+.md4sg-resource-container {
+	display: flex;
+	justify-content: flex-start;
+	flex-wrap: wrap;
+    margin-bottom: 40px;
+}
+
+.md4sg-resource {
+	flex-basis: 12%;
+	text-align: center;
+	padding-top: 10px;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+img.md4sg-resource-image {
+	border-radius: 10%;
+	border-style: solid
+}
+
+.md4sg-resource .resource-name {
+	display: inline;
+}
+
+.md4sg-resource .md4sg-resource-link img {
+    display: inline;
+    width: 15px;
+}
+
 /* Style the buttons that are used to open and close the accordion panel */
 .accordion {
     background-color: #20668F;

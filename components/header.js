@@ -19,6 +19,7 @@ class topLevelHeaderDepthZero extends HTMLElement {
                         <p class="menu"><a href="./aboutus.html">About MD4SG</a></p>
                         <p class="menu"><a href="./leadership.html">Leadership</a></p>
                         <p class="menu"><a href="./policies.html">Policies</a></p>
+						<p class="menu"><a href="./resources.html">Resources</a></p>
                     </div>
                 </div>
                 <div class="navbar-text dropdown">
@@ -100,6 +101,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
                 <p class="menu"><a href="../aboutus.html">About MD4SG</a></p>
                 <p class="menu"><a href="../leadership.html">Leadership</a></p>
                 <p class="menu"><a href="../policies.html">Policies</a></p>
+				<p class="menu"><a href="../resources.html">Resources</a></p>
             </div>
         </div>
         <div class="navbar-text dropdown">
@@ -181,6 +183,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
               <p class="menu"><a href="../../aboutus.html">About MD4SG</a></p>
               <p class="menu"><a href="../../leadership.html">Leadership</a></p>
               <p class="menu"><a href="../../policies.html">Policies</a></p>
+			  <p class="menu"><a href="../../resources.html">Resources</a></p>
           </div>
       </div>
       <div class="navbar-text dropdown">
