@@ -27,6 +27,7 @@ class topLevelHeaderDepthZero extends HTMLElement {
                         <a href="./workshop/index.html">Events</a>
                     </span>
                     <div class="dropdown-content">
+                        <p class="menu"><a href="./workshop/facct22.html">FAccT &#39;22</a></p>
                         <p class="menu"><a href="./workshop/neurips21.html">NeurIPS &#39;21</a></p>
                         <p class="menu"><a href="https://eaamo2021.eaamo.org/">EAAMO &#39;21</a></p>
                         <p class="menu"><a href="./workshop/FAACT21/faact21tutorial.html">FAccT &#39;21</a></p>
@@ -109,6 +110,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
                 <a href="../workshop/index.html">Events</a>
             </span>
             <div class="dropdown-content">
+                <p class="menu"><a href="../workshop/facct22.html">FAccT &#39;22</a></p>    
                 <p class="menu"><a href="../workshop/neurips21.html">NeurIPS &#39;21</a></p>
                 <p class="menu"><a href="https://eaamo2021.eaamo.org/">EAAMO &#39;21</a></p>
                 <p class="menu"><a href="../workshop/FAACT21/faact21tutorial.html">FAccT &#39;21</a></p>
@@ -191,6 +193,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
               <a href="../workshop/index.html">Events</a>
           </span>
           <div class="dropdown-content">
+              <p class="menu"><a href="../../workshop/facct22.html">FAccT &#39;22</a></p>
               <p class="menu"><a href="../../workshop/neurips21.html">NeurIPS &#39;21</a></p>
               <p class="menu"><a href="https://eaamo2021.eaamo.org/">EAAMO &#39;21</a></p>
               <p class="menu"><a href="../../workshop/FAACT21/faact21tutorial.html">FAccT &#39;21</a></p>
