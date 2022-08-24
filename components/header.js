@@ -53,12 +53,9 @@ class topLevelHeaderDepthZero extends HTMLElement {
                     <div class="dropdown-content">
                         <p class="menu"><a href="./workinggroups/civicparticipation.html">Civic Participation</a></p>
                         <p class="menu"><a href="./workinggroups/practitioners.html">Conversations with Practitioners</a></p>
-                        <p class="menu"><a href="./workinggroups/data.html">Data Economies</a></p>
                         <p class="menu"><a href="./workinggroups/dev.html">Development</a></p>
-                        <p class="menu"><a href="./workinggroups/distributivejustice.html">Discrimination</a></p>
                         <p class="menu"><a href="./workinggroups/environment.html">Environment</a></p>
                         <p class="menu"><a href="./workinggroups/inequality.html">Inequality</a></p>
-                        <p class="menu"><a href="./workinggroups/latinamerica.html">Latin America and Caribbean</a></p>
                         <p class="menu"><a href="./workinggroups/lawpolicy.html">Law & Policy</a></p>
                         <p class="menu"><a href="./workinggroups/previous.html">Previous Working Groups</a></p>
                     </div>
@@ -110,7 +107,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
                 <a href="../workshop/index.html">Events</a>
             </span>
             <div class="dropdown-content">
-                <p class="menu"><a href="../workshop/facct22.html">FAccT &#39;22</a></p>    
+                <p class="menu"><a href="../workshop/facct22.html">FAccT &#39;22</a></p>
                 <p class="menu"><a href="../workshop/neurips21.html">NeurIPS &#39;21</a></p>
                 <p class="menu"><a href="https://eaamo2021.eaamo.org/">EAAMO &#39;21</a></p>
                 <p class="menu"><a href="../workshop/FAACT21/faact21tutorial.html">FAccT &#39;21</a></p>
@@ -136,12 +133,9 @@ class topLevelHeaderDepthOne extends HTMLElement {
             <div class="dropdown-content">
                 <p class="menu"><a href="../workinggroups/civicparticipation.html">Civic Participation</a></p>
                 <p class="menu"><a href="../workinggroups/practitioners.html">Conversations with Practitioners</a></p>
-                <p class="menu"><a href="../workinggroups/data.html">Data Economies</a></p>
                 <p class="menu"><a href="../workinggroups/dev.html">Development</a></p>
-                <p class="menu"><a href="../workinggroups/distributivejustice.html">Discrimination</a></p>
                 <p class="menu"><a href="../workinggroups/environment.html">Environment</a></p>
                 <p class="menu"><a href="../workinggroups/inequality.html">Inequality</a></p>
-                <p class="menu"><a href="../workinggroups/latinamerica.html">Latin America and Caribbean</a></p>
                 <p class="menu"><a href="../workinggroups/lawpolicy.html">Law & Policy</a></p>
                 <p class="menu"><a href="../workinggroups/previous.html">Previous Working Groups</a></p>
             </div>
@@ -219,12 +213,9 @@ class topLevelHeaderDepthOne extends HTMLElement {
           <div class="dropdown-content">
               <p class="menu"><a href="../../workinggroups/civicparticipation.html">Civic Participation</a></p>
               <p class="menu"><a href="../../workinggroups/practitioners.html">Conversations with Practitioners</a></p>
-              <p class="menu"><a href="../../workinggroups/data.html">Data Economies</a></p>
               <p class="menu"><a href="../../workinggroups/dev.html">Development</a></p>
-              <p class="menu"><a href="../../workinggroups/distributivejustice.html">Discrimination</a></p>
               <p class="menu"><a href="../../workinggroups/environment.html">Environment</a></p>
               <p class="menu"><a href="../../workinggroups/inequality.html">Inequality</a></p>
-              <p class="menu"><a href="../../workinggroups/latinamerica.html">Latin America and Caribbean</a></p>
               <p class="menu"><a href="../../workinggroups/lawpolicy.html">Law & Policy</a></p>
               <p class="menu"><a href="../../workinggroups/previous.html">Previous Working Groups</a></p>
           </div>
