@@ -194,6 +194,14 @@ h3{
     border: 1px solid #CB2701;
 }
 
+.projectDivider {
+    height: 5px;
+    color: #20668F;
+    background-color: #20668F;
+    margin-bottom: 20px;
+    border: 1px solid #20668F;
+}
+
 #footer {
     margin: 30px 0px;
     text-align: center;
