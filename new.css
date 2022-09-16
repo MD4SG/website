@@ -547,12 +547,13 @@ img.person-image {
     font-size: 14px;
 }
 
-.person .person-website img {
+.person-website img {
     display: inline;
     width: 15px;
 }
 
-.person .person-linkedin img {
+
+.person-linkedin img {
     display: inline;
     width: 15px;
     margin-left: 10px;
