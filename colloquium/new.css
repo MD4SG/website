@@ -37,7 +37,7 @@ div#headpane {
 }
 
 div#contentpane {
-    
+
     text-align:justify;
     position:relative;
     margin-top: 0px;
@@ -66,7 +66,7 @@ div#contentpane {
 }*/
 
 div#pagetitle{
-    
+
     font-size:180%;
     text-align:left;
 /*    background: #CCCCCC;*/
@@ -129,14 +129,14 @@ td#bottomtableh {
 table#applettable {
     margin-left: auto;
     margin-right: auto;
-    
+
 }
 
 table#buttonstable {
     margin-left: auto;
     margin-right: auto;
     margin-bottom:-5px;
-    
+
 }
 
 p {
@@ -198,7 +198,7 @@ h3{
     height: 5px;
     color: #20668F;
     background-color: #20668F;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
     border: 1px solid #20668F;
 }
 
@@ -314,7 +314,7 @@ span.project2 {
 	/*background:transparent url(../graphics/arr.gif) left center no-repeat;*/
 	/*padding-left:24px;*/
 	color: #000000;
-	font-family: "gesta", arial, sans-serif;	
+	font-family: "gesta", arial, sans-serif;
 }
 .link a:hover{
 	/*text-decoration:underline;*/
@@ -597,7 +597,7 @@ ul {
     transition: 0.4s;
     margin-bottom: 10px;
   }
-  
+
   /* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
   .active, .accordion:hover {
     background-color: #20668F;
@@ -605,7 +605,7 @@ ul {
     background: -moz-linear-gradient(left, #20668f 0%, #20668f 48px,#cccccc 48px, #cccccc 100%); /* FF3.6-15 */
     background: -webkit-linear-gradient(left, #20668f 0%,#20668f 48px,#cccccc 48px,#cccccc 100%); /* Chrome10-25,Safari5.1-6 */
     background: linear-gradient(to right, #20668f 0%,#20668f 48px,#cccccc 48px,#cccccc 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
-  
+
 }
 
   .accordion:before {
@@ -616,13 +616,13 @@ ul {
     margin-right: 40px;
     font-size: 12px;
   }
-  
+
   .active:before {
     content: "-";
     font-size: 35px !important;
     color: #FFF;
   }
-  
+
   /* Style the accordion panel. Note: hidden by default */
   .panel {
     padding: 0 18px;
