@@ -188,7 +188,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
       </div>
       <div class="navbar-text dropdown">
           <span class="normal">
-              <a href="../workshop/index.html">Events</a>
+              <a href="../../workshop/index.html">Events</a>
           </span>
           <div class="dropdown-content">
               <p class="menu"><a href="../../workshop/ijcai23/index.html">IJCAI &#39;23</a></p>    
@@ -214,7 +214,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
       </div>
       <div class="navbar-text dropdown">
           <span class="normal">
-              <a href="../workinggroups/index.html">Working Groups</a>
+              <a href="../../workinggroups/index.html">Working Groups</a>
           </span>
           <div class="dropdown-content">
               <p class="menu"><a href="../../workinggroups/civicparticipation.html">Civic Participation</a></p>
