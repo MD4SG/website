@@ -67,6 +67,7 @@ class topLevelHeaderDepthZero extends HTMLElement {
                     </span>
                     <div class="dropdown-content">
                         <p class="menu"><a href="./workinggroups/projects/datastories.html">Data and the Global South Project</a></p>
+                        <p class="menu"><a href="./workinggroups/projects/REDNACECYT.html">REDNACECYT</a></p>
                     </div>
                 </div>
                 <div class="navbar-text">
@@ -148,6 +149,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
             </span>
             <div class="dropdown-content">
                 <p class="menu"><a href="../workinggroups/projects/datastories.html">Data and the Global South Project</a></p>
+                <p class="menu"><a href="../workinggroups/projects/REDNACECYT.html">REDNACECYT</a></p>
             </div>
         </div>
         <div class="navbar-text">
@@ -229,6 +231,7 @@ class topLevelHeaderDepthOne extends HTMLElement {
           </span>
           <div class="dropdown-content">
               <p class="menu"><a href="../../workinggroups/projects/datastories.html">Data and the Global South Project</a></p>
+              <p class="menu"><a href="../../workinggroups/projects/REDNACECYT.html">REDNACECYT</a></p>
           </div>
       </div>
       <div class="navbar-text">
